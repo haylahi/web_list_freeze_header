@@ -24,7 +24,7 @@
     'version': '9.0.1.0.0',
     'category': 'Website',
     'summary': """
-the function to Freeze Header
+The function to Freeze Header
 """,
     'author': "binhnguyenxuan (www.xubi.me)",
     'website': 'http://www.xubi.me',
@@ -32,6 +32,7 @@ the function to Freeze Header
     'depends': [
     ],
     'data': [
+        'templates/templates.xml',
     ],
     'qweb': [
     ],
