@@ -1,9 +1,9 @@
 # -*- encoding: utf-8 -*-
 ##############################################################################
 #
-#    Samples module for Odoo Web Login Screen
+#    Odoo List View Freeze Header
 #    Copyright (C) 2016- XUBI.ME (http://www.xubi.me)
-#    @author binhnguyenxuan (https://www.linkedin.com/in/binh-nguyen-xuan-46556279)
+#    @author binhnguyenxuan (https://www.linkedin.com/in/binhnguyenxuan)
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
@@ -18,7 +18,4 @@
 #    You should have received a copy of the GNU Affero General Public License
 #    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #    
-#
 ##############################################################################
-
-import controllers
